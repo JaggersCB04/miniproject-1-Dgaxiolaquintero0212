@@ -1,0 +1,50 @@
+<DOCTYPE!>
+<html>
+<head>
+<title> Derek's class schedule </title>
+<head>
+<h1> Derek </h1>
+<h2> 2018 Spring Class Schedule</h2>
+<table>
+<tr>
+<td>1</td>
+<td>English language arts 7</td>
+<td>
+<td>
+</tr>
+<tr>
+<td>2</td>
+<td>Social studies</td>
+<td>
+<td>
+</tr>
+<tr>
+<td>3</td>
+<td>Honors Honors 7th Grade Science</td>
+<td>
+<td>
+</tr>
+<tr>
+<td>4</td>
+<td>Computer Programming & App Development</td>
+<td>
+<td>
+</tr>
+<tr>
+<td>5</td>
+<td>Accelerated Math</td>
+<td>
+<td>
+</tr>
+<tr>
+<td>6</td>
+<td>Web Creation</td>
+<td>
+<td>
+</tr>
+<tr>
+<td>7</td>
+<td>Introductory Spanish</td>
+<td>
+<td>
+</tr>
